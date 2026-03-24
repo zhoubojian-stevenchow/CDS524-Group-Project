@@ -5,7 +5,8 @@
 **Course:** CDS524 Machine Learning Application — Group Project  
 **Institution:** Lingnan University  
 **Date:** March 2026
-                                                                                    **Group:** AI Squad
+**Group:** AI Squad
+
 ---
 
 ## Overview
