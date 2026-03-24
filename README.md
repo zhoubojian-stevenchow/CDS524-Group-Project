@@ -42,9 +42,9 @@ This project tackles **next-day temperature forecasting** (mean, min, max) for 5
 │   │   └── fig_01 ... fig_15 (.png)
 │   ├── results_raw_11_plus_chinese/          # Config B outputs
 │   │   └── ...
-│   ├── results_baseline_no_chinese/          # Config C outputs
+│   ├── results_baseline_no_chinese_202603101752/          # Config C outputs
 │   │   └── ...
-│   └── results_节气_五行_天干地支/              # Config D outputs
+│   └── results_节气_五行_天干地支_202603101645/              # Config D outputs
 │       ├── results_xgboost.csv
 │       ├── results_lstm.csv
 │       ├── results_comparison.csv
